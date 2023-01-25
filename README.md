@@ -42,9 +42,9 @@
 
 #### 😄 Pronouns:
 
-*"You need someone to hold your hand befre you start to walk"*
+##*"You need someone to hold your hand befre you start to walk"*
                                                         
-                                                      **_- by t00mi_**
+                                                      **- by t00mi**
 <!--
 **t00mi/t00mi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
