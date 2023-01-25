@@ -34,11 +34,17 @@
 
 #### 📫 How to reach me:
 
-[LinkedIn profile](https://www.linkedin.com/in/tomasz-lesniewski-79774925)
+[LinkedIn profile.](https://www.linkedin.com/in/tomasz-lesniewski-79774925)
 
 #### ⚡ Fun fact:
 
 ### I can be fun you know.
+
+#### 😄 Pronouns:
+
+*"You need someone to hold your hand befre you start to walk"*
+                                                        
+                                                      **_- by t00mi_**
 <!--
 **t00mi/t00mi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
