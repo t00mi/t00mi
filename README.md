@@ -1,8 +1,9 @@
 <picture>
- <source media="(prefers-color-scheme: dark)" srcset="profile_image">
- <source media="(prefers-color-scheme: light)" srcset="profile_image">
- <img alt="profile_image" src="profile_image">
+  <source media="(prefers-color-scheme: dark)" srcset="profile_picture.png">
+  <source media="(prefers-color-scheme: light)" srcset="profile_picture.png">
+  <img alt="My profile picture." src="profile_picture.png">
 </picture>
+
 # Hi there 👋
 
 ## My name is Tomasz and I would like to become a coder specialising in Python. 
