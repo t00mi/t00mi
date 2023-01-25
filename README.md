@@ -1,7 +1,7 @@
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="profile_picture.png">
-  <source media="(prefers-color-scheme: light)" srcset="profile_picture.png">
-  <img alt="My profile picture." src="profile_picture.png">
+  <source media="(prefers-color-scheme: dark)" srcset="profile_image.png">
+  <source media="(prefers-color-scheme: light)" srcset="profile_image.png">
+  <img alt="My profile picture." src="profile_image.png">
 </picture>
 
 # Hi there 👋
@@ -12,8 +12,33 @@
 
 #### I am very optimistic about it, but we will see how it goes...
 
-##### 🔭 I am currently working on:
+#### 🔭 I am currently working on:
 
+| Rank |  Not so usual things     |
+|-----:|--------------------------|
+|     1|Raising my boy            |
+|     2|Looking after my dog      |
+|     3|Completing coding bootcamp|
+|     4|Working                   | 
+|     5|...       run out of time |
+
+#### 🌱 I’m currently learning:
+
+| Rank |  Skills for life         |
+|-----:|--------------------------|
+|     1|How to be a father        |
+|     2|Python                    |
+|     3|Databases                 |
+|     4|Basic HTML                | 
+|     5|... anything useful       |
+
+#### 📫 How to reach me:
+
+[LinkedIn profile](https://www.linkedin.com/in/tomasz-lesniewski-79774925)
+
+#### ⚡ Fun fact:
+
+### I can be fun you know.
 <!--
 **t00mi/t00mi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
