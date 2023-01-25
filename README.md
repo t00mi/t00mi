@@ -1,8 +1,12 @@
-### Hi there 👋
+# Hi there 👋
 
 ## My name is Tomasz and I would like to become a coder specialising in Python. 
 
-# Well, this is at least my dream as I would love to change careers in my life and try something new and exciting.
+### This is at least my dream for now, as I would love to change careers in my life and try something new and exciting.
+
+#### I am very optimistic about it, but we will see how it goes...
+
+##### 🔭 I am currently working on:
 
 <!--
 **t00mi/t00mi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
