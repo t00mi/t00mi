@@ -44,7 +44,7 @@
 
 ## *"You need someone to hold your hand before you start to walk"*
                                                         
-                                                      **by t00mi**
+**by t00mi**
 <!--
 **t00mi/t00mi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
