@@ -1,3 +1,8 @@
+<picture>
+ <source media="(prefers-color-scheme: dark)" srcset="profile_image">
+ <source media="(prefers-color-scheme: light)" srcset="profile_image">
+ <img alt="profile_image" src="profile_image">
+</picture>
 # Hi there 👋
 
 ## My name is Tomasz and I would like to become a coder specialising in Python. 
