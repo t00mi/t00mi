@@ -42,7 +42,7 @@
 
 #### 😄 Pronouns:
 
-## *"You need someone to hold your hand before you start to walk"*
+## *"You need someone to hold your hand before you start to walk."*
                                                         
 **by t00mi**
 <!--
